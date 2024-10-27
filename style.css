@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lightyellow;
+}
+
+body {
+  font-family: 'Lexend', Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #c44d3b;
+}
+
+h2 {
+  text-align: center;
+  color: #c44d3b;
+}
+
+h3 {
+  text-align: center;
+  color: #c44d3b;
+}
+
+h4 {
+  text-align: center;
+  color: #c44d3b;
+}
+
+p {
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto 20px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+  width: 560px;
+  height: 315px;
+  border: none;
+}
